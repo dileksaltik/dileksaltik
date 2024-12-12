@@ -44,6 +44,6 @@ Currently exploring advanced DAX formulas in Power BI, machine learning fundamen
 
 📫 Let’s Connect!
 
-<li>Portfolio:  https://dileksaltik.github.io/portfolio/ </li>
+<li>Portfolio:  https://dileksaltik.github.io/ </li>
 <li>LinkedIn: https://www.linkedin.com/in/dileksaltik/  </li>
 <li>Email: dilek.saltik@outlook.com </li>
